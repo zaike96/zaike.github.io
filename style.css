@@ -34,7 +34,7 @@ section:before {
 }
 
 #sec1 {
-    background-image: url(/images/catv2.gif);
+    background-image: url(catv2.gif);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -125,9 +125,7 @@ section:before {
 }
 #sec3 h3, p{
     text-align: left;
-        font-size: 40px;
-    letter-spacing: 4px;
-    font-weight: 100;
+    
 }
 .box{
     color: #514036;
