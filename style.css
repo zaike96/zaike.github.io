@@ -32,13 +32,16 @@ section:before {
     font-size: 8em;
     font-weight: bold;
 }
+.bgbg1{
 
-#sec1 {
+    display: flex;
+}
+/*#sec1 {
     background-image: url(catv2.gif);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
-}
+}*/
 
 #sec1 h1 {
     display: flex;
